@@ -1,4 +1,4 @@
-#People Flow Platform
+# People Flow Platform
 
 ### Run using maven 
 - run launch.bat
